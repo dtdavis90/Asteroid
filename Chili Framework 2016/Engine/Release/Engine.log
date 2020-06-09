@@ -1,0 +1,14 @@
+﻿  Crosshair.cpp
+  Game.cpp
+  Main.cpp
+  MainWindow.cpp
+C:\Users\Daniel\Desktop\Projects\Chili DirectX Framework\Chili Framework 2016\Engine\ChiliWin.h(24,1): warning C4005: '_WIN32_WINNT': macro redefinition (compiling source file Crosshair.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sdkddkver.h(217): message : see previous definition of '_WIN32_WINNT' (compiling source file Crosshair.cpp)
+C:\Users\Daniel\Desktop\Projects\Chili DirectX Framework\Chili Framework 2016\Engine\ChiliWin.h(64,1): warning C4005: 'STRICT': macro redefinition (compiling source file Crosshair.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(23): message : see previous definition of 'STRICT' (compiling source file Crosshair.cpp)
+  Generating code
+  101 of 537 functions (18.8%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    40 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Engine.vcxproj -> C:\Users\Daniel\Desktop\Projects\Chili DirectX Framework\Chili Framework 2016\Release\Engine.exe
